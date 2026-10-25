@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**HSG-01/HSG-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Harish Gayakwad
 
-Here are some ideas to get you started:
+### Computer Science Engineering Student | Aspiring Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about software development, Artificial Intelligence, and building useful technology projects.
+
+- 🎓 Computer Science Engineering student
+- 💻 Learning Python, Web Development, and AI
+- 🚀 Building full-stack applications and AI-powered projects
+- 🌱 Continuously improving my coding skills
+
+## 🛠️ Technical Skills
+
+- **Languages:** C, C++, Python, JavaScript, SQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Tools:** Git, GitHub, Excel
+
+## 🚀 Featured Projects
+
+- **Smart Virtual Meeting Companion using NLP**
+- **Resume AI Scout**
+- **Full-Stack Blog Application**
+
+## 📫 Connect with Me
+
+- GitHub: [HSG-01](https://github.com/HSG-01)
+
+---
+⭐ Thanks for visiting my profile!
